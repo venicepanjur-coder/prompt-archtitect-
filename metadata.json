@@ -1,0 +1,5 @@
+{
+  "name": "PromptArchitect AI",
+  "description": "An advanced AI tool that analyzes images to reverse-engineer professional prompts for Midjourney, Stable Diffusion, and Flux.",
+  "requestFramePermissions": []
+}
